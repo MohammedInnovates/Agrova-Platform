@@ -1,0 +1,23 @@
+{
+  "name": "Agrova - Direct Farm to You",
+  "short_name": "Agrova",
+  "description": "Direct E-Commerce & Custom Household Food Procurement for Abuja.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf7f0",
+  "theme_color": "#15803d",
+  "icons": [
+    {
+      "src": "/agrover-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/agrover-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
